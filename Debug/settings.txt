@@ -1,0 +1,7 @@
+folderFilePath: C:\\Users\\Kyle\\Documents\\Kyle Extra\\DayNight\\
+timeToShuffle: .00028
+randomized: 1
+dayNight: 1
+seasons: 1 //NOT FUNCTIONAL AT THE MOMENT
+dayFilePath: C:\\Users\\Kyle\\Documents\\Kyle Extra\\DayNight\\Day\\
+nightFilePath: C:\\Users\\Kyle\\Documents\\Kyle Extra\\DayNight\\Night\\
