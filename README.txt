@@ -1,6 +1,8 @@
-wallpaperapp.cpp v1.0
+wallpaperapp.cpp v1.01
+Created: 6/5/2014
 
-Last updated 6/5/2014
+Last updated 8/4/2014
+EDIT: clarity fixes for readme
 
 INSTRUCTIONS:
 1. Fill out the settings.txt file provided! And make sure it is located in the same folder as the .exe! Reminder: ALL URLS MUST USE DOUBLE BACKSLASHES.
@@ -15,7 +17,8 @@ where the sky is your computer's refresh rate and/or the smallest size doubles c
 wallpapers and one for night wallpapers. They cannot be empty, so have fun and fill them up!  
 
 5. Tip for getting URLs, click on the url line with the folder icon on the far left to turn it into a URL. Copy and paste into a word processor
-and replace all \'s with \\'s. Success! 
+and replace all \'s with \\'s. Success! (Works for Windows 7)
+On Windows 8, right click the folder, click properties, and click on location. Copy paste this location, and manually type out the folder name attached.
 
 PURPOSE: Save your eyes and customize how your wallpaper looks! Do you hate it when you are working late at night and then your wallpaper shifts
 to a bright color? You can change that now! 
